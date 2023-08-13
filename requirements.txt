@@ -2,4 +2,3 @@ youtube_search
 pytube
 moviepy
 streamlit
-email
